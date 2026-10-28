@@ -1,0 +1,70 @@
+{
+  "/": {
+    "file": "home.html",
+    "title": "N&R Auction Gallery — Fine Art & Antiques Auctions"
+  },
+  "/auctions": {
+    "file": "auctions.html",
+    "title": "Upcoming Auctions — N&R Auction Gallery"
+  },
+  "/auctions/asian-works-winter": {
+    "file": "auctions__asian-works-winter.html",
+    "title": "Asian Works of Art — N&R Auction Gallery"
+  },
+  "/auctions/capital-collections-fall": {
+    "file": "auctions__capital-collections-fall.html",
+    "title": "Capital Collections: Fine & Decorative Arts — N&R Auction Gallery"
+  },
+  "/how-to-buy": {
+    "file": "how-to-buy.html",
+    "title": "How to Buy — N&R Auction Gallery"
+  },
+  "/lots/l101": {
+    "file": "lots__l101.html",
+    "title": "Lot 101: River Valley at Dusk — N&R Auction Gallery"
+  },
+  "/lots/l114": {
+    "file": "lots__l114.html",
+    "title": "Lot 114: Federal Mahogany Chest of Drawers — N&R Auction Gallery"
+  },
+  "/lots/l126": {
+    "file": "lots__l126.html",
+    "title": "Lot 126: Sterling Silver Four-Piece Tea Service — N&R Auction Gallery"
+  },
+  "/lots/l140": {
+    "file": "lots__l140.html",
+    "title": "Lot 140: Blue and White Dragon Vase — N&R Auction Gallery"
+  },
+  "/results": {
+    "file": "results.html",
+    "title": "Auction Results — N&R Auction Gallery"
+  },
+  "/sell": {
+    "file": "sell.html",
+    "title": "Sell at Auction — N&R Auction Gallery"
+  },
+  "/lots/l205": {
+    "file": "lots__l205.html",
+    "title": "Lot 205: Pair of Porcelain Baluster Vases — N&R Auction Gallery"
+  },
+  "/lots/l212": {
+    "file": "lots__l212.html",
+    "title": "Lot 212: Landscape Scroll Painting — N&R Auction Gallery"
+  },
+  "/lots/l030": {
+    "file": "lots__l030.html",
+    "title": "Lot 30: Hudson River Landscape — N&R Auction Gallery"
+  },
+  "/lots/l045": {
+    "file": "lots__l045.html",
+    "title": "Lot 45: Georgian Silver Coffee Pot — N&R Auction Gallery"
+  },
+  "/lots/l052": {
+    "file": "lots__l052.html",
+    "title": "Lot 52: Famille Rose Covered Jar — N&R Auction Gallery"
+  },
+  "/auctions/estate-spring": {
+    "file": "auctions__estate-spring.html",
+    "title": "Spring Estate Auction — N&R Auction Gallery"
+  }
+}
